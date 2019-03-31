@@ -9,6 +9,8 @@ public class EntryPointBean implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
+
         System.out.println("Hello World");
+
     }
 }
